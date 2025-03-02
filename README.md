@@ -1,7 +1,5 @@
 # **DNS Resolver - Iterative and Recursive Lookup**
 
----
-
 ## Group Members
 
 - **Suvrat Pal (211089)**
